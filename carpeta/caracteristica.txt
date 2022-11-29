@@ -1,0 +1,1 @@
+Se puede trabajar en un proyecto de git localmente como por la nube
