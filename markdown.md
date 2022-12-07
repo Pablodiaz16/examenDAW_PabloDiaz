@@ -1,4 +1,7 @@
 # encabezado
 
 
-'Linea de codigo exotica'
+~~~
+Linea de código exótica
+Linea dos de código exótico
+~~~
